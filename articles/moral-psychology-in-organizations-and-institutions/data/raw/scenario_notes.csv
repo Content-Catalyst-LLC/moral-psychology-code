@@ -1,0 +1,8 @@
+scenario,description,expected_pattern
+baseline,Average pressure hierarchy diffusion accountability and culture,Moderate synthetic ethical risk
+high_pressure,High performance pressure with average accountability,Higher synthetic unethical-action probability
+low_accountability,Low accountability strength with average pressure,Higher ethical risk and lower integrity
+high_diffusion,High diffusion of responsibility with average accountability,Higher many-hands pressure
+high_speak_up,High speak-up protection and value alignment,Lower synthetic ethical risk and higher integrity
+combined_escalation,High pressure high hierarchy high diffusion low accountability low culture,Highest synthetic ethical risk
+integrity_repair,High accountability high voice high value alignment low corruption,Higher synthetic institutional integrity

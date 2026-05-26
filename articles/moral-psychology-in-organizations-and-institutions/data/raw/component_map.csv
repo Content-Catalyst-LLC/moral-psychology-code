@@ -1,0 +1,13 @@
+component,variable,description,interpretive_warning
+ethical_sensitivity,ethical_sensitivity,Capacity to notice morally relevant features of a decision,Not a real-person moral score
+role_constraint,role_constraint,Degree to which formal duties narrow perceived responsibility,Role constraint is contextual not a trait defect
+culture,cultural_climate,Norms around candor fairness care retaliation and integrity,Culture must be interpreted institutionally
+pressure,performance_pressure,Pressure to meet targets or satisfy metrics,Pressure can be produced by leadership incentives or markets
+hierarchy,hierarchy_intensity,Strength of authority gradients and command structure,Hierarchy can coordinate or suppress ethical concern
+diffusion,diffusion_responsibility,Spread of responsibility across roles systems departments or committees,Diffusion does not eliminate responsibility
+accountability,accountability_strength,Clarity enforceability and fairness of responsibility systems,Accountability must track power as well as role
+voice,speak_up_protection,Protection for dissent reporting and ethical warning,Voice must be credible and protected to matter
+alignment,value_alignment,Alignment between stated mission and actual incentives,Values are weak if incentives contradict them
+corruption,corruption_pressure,Pressure that redirects purpose toward capture self-protection or narrow gain,Corruption can be systemic rather than only personal
+risk,unethical_probability,Synthetic probability of unethical action under modeled conditions,Not a real employee risk score
+integrity,institutional_integrity,Synthetic institutional integrity score,Not an audit finding or certification

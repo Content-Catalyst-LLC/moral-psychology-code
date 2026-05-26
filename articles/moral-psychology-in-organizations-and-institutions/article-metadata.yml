@@ -1,0 +1,37 @@
+title: "Moral Psychology in Organizations and Institutions"
+slug: "moral-psychology-in-organizations-and-institutions"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-psychology-in-organizations-and-institutions"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - organizational psychology
+  - institutional psychology
+  - organizational ethics
+  - ethical decision-making
+  - ethical fading
+  - bounded ethicality
+  - hierarchy
+  - incentives
+  - accountability
+  - diffusion of responsibility
+  - institutional corruption
+  - speak-up culture
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  employee screening, workplace surveillance, psychological assessment, disciplinary
+  action, automated moral judgment, or decision-making about individuals or groups.
