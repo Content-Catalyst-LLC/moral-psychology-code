@@ -1,0 +1,15 @@
+component,variable,description,interpretive_warning
+person,person_id,Synthetic person identifier,Not real personal data
+situation,situation_id,Synthetic situation identifier,Not real institutional data
+character,character_strength,Synthetic character strength or virtue-relevant tendency,Not a real virtue or moral worth score
+self_regulation,self_regulation,Synthetic self-regulatory capacity,Not a psychological assessment
+habit,habit_strength,Synthetic practiced moral habit strength,Not a real habit assessment
+identity,moral_identity,Synthetic moral identity centrality,Not a real moral identity score
+depletion,depletion,Synthetic depletion fatigue or stress,Not a health or psychological measure
+pressure,situational_pressure,Synthetic contextual pressure against moral action,Not a real situational audit
+voice,voice_safety,Synthetic protection for warning dissent correction and truth-telling,Not a workplace or school assessment
+accountability,accountability_visibility,Synthetic visibility of answerability review and consequence,Not a governance audit
+interaction,character_pressure_interaction,Synthetic character-by-pressure interaction,Not an empirical interaction estimate
+action,moral_action_probability,Synthetic probability of moral action,Not a prediction of real conduct
+case,high_character_low_action,Synthetic cases with high character but low action under pressure,Not a real-person risk classification
+signature,if_then_signature,Synthetic situation-linked response pattern,Not a personality or character assessment

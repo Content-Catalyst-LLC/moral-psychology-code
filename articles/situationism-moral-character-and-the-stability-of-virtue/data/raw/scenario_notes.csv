@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average character self-regulation habit identity depletion pressure voice safety and accountability,Moderate synthetic moral action probability
+low_pressure_high_accountability,Low situational pressure with high accountability visibility,Higher moral action probability
+high_pressure_low_voice,High pressure with weak voice safety,Lower moral action probability
+high_character_high_pressure,High character strength under high situational pressure,Character helps but pressure may suppress action
+high_habit_high_pressure,Strong habit strength under high pressure,Higher resilience than character alone
+high_identity_high_depletion,Strong moral identity with high depletion,Identity supports action but depletion weakens reliability
+high_character_low_action,High character but high pressure low voice safety and low accountability,Illustrates virtue fragility
+supportive_institution,High voice safety and accountability with moderate pressure,Institution supports virtue expression
