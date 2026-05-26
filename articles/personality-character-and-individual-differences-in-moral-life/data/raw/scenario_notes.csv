@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average personality character identity bias pressure voice safety and accountability,Moderate synthetic moral action probability
+high_character_high_identity,High character strength and high moral identity,Higher moral response profile
+high_identity_high_bias,High moral identity with high self-interest bias,Identity supports action but bias suppresses it
+high_pressure_low_voice,High situational pressure and low voice safety,Lower moral action probability
+high_profile_low_action,High moral response profile but high pressure and low accountability,Moral action may fail despite strong profile
+high_empathy_high_visibility,High empathy with high consequence visibility,Higher moral response profile and action probability
+high_humility_high_accountability,High humility and accountability,Higher openness to correction and action
+strong_context_support,High voice safety and accountability with low pressure,Higher ethical expression

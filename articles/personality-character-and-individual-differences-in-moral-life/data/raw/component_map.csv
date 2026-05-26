@@ -1,0 +1,14 @@
+component,variable,description,interpretive_warning
+personality,broad_personality,Synthetic broad personality structure or dispositional profile,Not a real personality assessment
+character,character_strength,Synthetic morally valenced character strength,Not a real virtue or character score
+identity,moral_identity,Synthetic centrality of morality to self-concept,Not a real moral identity assessment
+empathy,empathy,Synthetic empathic sensitivity to suffering or vulnerability,Not a psychological diagnosis
+self_regulation,conscientious_self_regulation,Synthetic self-command reliability and follow-through,Not a real conscientiousness score
+humility,humility,Synthetic humility openness to correction and non-defensive learning,Not a real humility assessment
+bias,self_interest_bias,Synthetic self-interest bias in moral judgment,Not a real moral diagnosis
+pressure,situational_pressure,Synthetic situational or institutional pressure,Not an institutional audit
+voice_safety,voice_safety,Synthetic protection for speaking warning dissenting or reporting,Not a workplace assessment
+accountability,accountability_strength,Synthetic answerability review and responsibility structure,Not a governance audit
+profile,moral_response_profile,Synthetic moral-response profile,Not a real-person moral score
+action,moral_action_probability,Synthetic probability of moral action,Not a prediction of real conduct
+interaction,person_situation_interaction,Synthetic person-situation interaction,Not an empirical estimate

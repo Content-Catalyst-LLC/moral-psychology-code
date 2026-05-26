@@ -1,0 +1,40 @@
+title: "Personality, Character, and Individual Differences in Moral Life"
+slug: "personality-character-and-individual-differences-in-moral-life"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/personality-character-and-individual-differences-in-moral-life"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - personality
+  - character
+  - individual differences
+  - moral identity
+  - empathy
+  - conscience
+  - self-interest bias
+  - character strength
+  - moral action
+  - person-situation interaction
+  - CAPS
+  - Big Five
+  - VIA character strengths
+  - organizational ethics
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  employee screening, hiring, student evaluation, workplace surveillance,
+  psychological assessment, moral-character scoring, disciplinary decisions,
+  legal decision-making, political targeting, or automated moral judgment.
