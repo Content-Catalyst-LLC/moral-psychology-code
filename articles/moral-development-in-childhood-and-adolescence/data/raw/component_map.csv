@@ -1,0 +1,17 @@
+component,variable,description,interpretive_warning
+age,age,Synthetic age from 5 to 18,Not real demographic data
+band,development_band,Synthetic childhood or adolescent developmental pattern,Not a clinical or developmental classification
+cognition,perspective_taking,Synthetic capacity to understand another perspective,Not a cognitive assessment
+emotion,empathic_concern,Synthetic empathic concern for another person,Not a psychological diagnosis
+norms,norm_understanding,Synthetic understanding of norms rules and obligations,Not a real norm-learning assessment
+peers,peer_context,Synthetic peer context and peer learning,Not a real peer assessment
+family,family_support,Synthetic family support and moral socialization,Not a family assessment
+school,school_climate,Synthetic school climate and institutional support,Not a school audit
+status,peer_status_pressure,Synthetic peer-status pressure or threat of exclusion,Not a real peer risk score
+harm,harm_understanding,Synthetic harm-based moral understanding,Not a child moral score
+fairness,fairness_reasoning,Synthetic fairness reasoning,Not a child moral score
+convention,conventional_sensitivity,Synthetic conventional-rule sensitivity,Not a child norm score
+autonomy,personal_autonomy_understanding,Synthetic personal-domain or autonomy understanding,Not a developmental assessment
+profile,latent_moral_development,Synthetic moral-development profile,Not a real moral-development score
+action,moral_action_probability,Synthetic moral action probability,Not a prediction of real conduct
+case,high_development_low_action,Synthetic cases with strong profile but low action under peer pressure,Not a real-person risk classification

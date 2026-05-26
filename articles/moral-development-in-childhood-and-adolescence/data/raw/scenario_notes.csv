@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average age empathy norm understanding peer context family support school climate and peer pressure,Moderate synthetic moral-development profile
+early_childhood_harm,Younger child with strong empathic concern,Higher harm understanding but limited autonomy reasoning
+middle_childhood_fairness,Middle childhood with family and peer support,Higher fairness and reciprocity pattern
+adolescent_identity_pressure,Adolescent pattern with high peer-status pressure,Moral action may be suppressed despite stronger development
+high_school_climate,Supportive school climate and family support,Higher moral action probability
+low_support_high_pressure,Weak family support and school climate with high peer pressure,Lower action probability
+domain_differentiation,Distinct harm fairness convention and autonomy scores,Shows social-domain structure
+high_development_low_action,Strong latent development but high peer-status pressure,Illustrates moral insight-action gap in adolescence

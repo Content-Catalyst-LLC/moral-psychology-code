@@ -1,0 +1,41 @@
+title: "Moral Development in Childhood and Adolescence"
+slug: "moral-development-in-childhood-and-adolescence"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-development-in-childhood-and-adolescence"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral development
+  - childhood
+  - adolescence
+  - perspective-taking
+  - empathy
+  - norm learning
+  - social domain theory
+  - harm understanding
+  - fairness reasoning
+  - conventional sensitivity
+  - personal autonomy
+  - peer pressure
+  - family support
+  - school climate
+  - digital life
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  child assessment, school assessment, developmental screening, psychological
+  assessment, moral-development scoring, discipline systems, legal decision-making,
+  educational placement, or automated moral judgment.
