@@ -1,0 +1,14 @@
+component,variable,description,interpretive_warning
+wrongdoing,wrongdoing_severity,Synthetic seriousness of the wrong or harm,Not a real case severity score
+responsibility,offender_responsibility,Synthetic perceived responsibility of the wrongdoer,Not a legal or clinical responsibility assessment
+norms,norm_reaffirmation_need,Synthetic need to publicly reaffirm violated norms,Norm reaffirmation can be symbolic if not linked to repair
+acknowledgment,acknowledgment,Synthetic acknowledgment or truth-telling by wrongdoer or institution,Words alone do not equal repair
+amends,amends,Synthetic making-amends or repentant action,Amends must be tied to material and relational context
+threat,ongoing_threat,Synthetic ongoing threat or unresolved harm,High threat may make forgiveness unsafe or premature
+restitution,restitution,Synthetic restitution or compensation,Not a real reparations calculation
+trust,institutional_trust,Synthetic trust in institutions or procedures,Trust depends on legitimacy accountability and history
+recognition,victim_recognition,Synthetic recognition of harmed person or group standing,Recognition should not be performed without agency
+reform,structural_reform,Synthetic structural or institutional reform effort,Reform must be evaluated in context
+punishment,punishment_score,Synthetic punishment or sanction intensity,Not a sentencing tool
+forgiveness,forgiveness_probability,Synthetic probability of forgiveness under modeled conditions,Not a victim expectation or moral requirement
+repair,moral_repair,Synthetic moral-repair outcome,Not an assessment of real healing or justice

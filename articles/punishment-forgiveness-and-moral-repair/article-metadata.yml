@@ -1,0 +1,40 @@
+title: "Punishment, Forgiveness, and Moral Repair"
+slug: "punishment-forgiveness-and-moral-repair"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/punishment-forgiveness-and-moral-repair"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - punishment
+  - forgiveness
+  - moral repair
+  - wrongdoing
+  - accountability
+  - norm reaffirmation
+  - acknowledgment
+  - amends
+  - restitution
+  - restorative justice
+  - public repair
+  - institutional trust
+  - victim recognition
+  - structural reform
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  sentencing, offender assessment, victim assessment, forgiveness pressure,
+  restorative-justice decisions, legal advice, psychological assessment,
+  disciplinary decisions, surveillance, or automated moral judgment.

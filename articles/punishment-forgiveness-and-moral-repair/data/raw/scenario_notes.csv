@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average wrongdoing responsibility acknowledgment amends threat and restitution,Moderate synthetic punishment forgiveness and repair
+high_wrongdoing_high_responsibility,High severity and high responsibility,Higher synthetic punishment score
+high_acknowledgment_low_threat,High acknowledgment and low ongoing threat,Higher synthetic forgiveness probability
+high_threat_low_acknowledgment,High threat and weak acknowledgment,Lower forgiveness and lower repair
+high_restitution_high_recognition,High restitution and victim recognition,Higher synthetic moral repair
+punishment_without_repair,High punishment but low acknowledgment restitution and reform,Norm response without deep repair
+repair_oriented_response,High acknowledgment restitution recognition trust and reform,Higher synthetic moral repair
+public_repair_failure,High denial low truth-telling low accountability and low reform,Lower synthetic public repair
