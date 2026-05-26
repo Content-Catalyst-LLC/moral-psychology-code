@@ -1,0 +1,11 @@
+component,variable,description,interpretive_warning
+group,group,Synthetic political or moral community label,Do not treat synthetic groups as real political populations
+values,value_profile,Synthetic value orientation,Values alone do not explain polarization
+trust,trust_allocation,Allocation of credibility across sources,Trust is shaped by institutions identity and history
+identity,identity_salience,Strength of political or group identity salience,Identity can shape how evidence is received
+propaganda,propaganda_exposure,Repeated strategic communication exposure,Exposure is not identical to belief or persuasion
+threat,threat_perception,Perceived danger betrayal or moral threat,Threat can compress complexity and intensify exclusion
+outrage,outrage_amplification,Amplified anger disgust contempt or humiliation,Outrage can signal injustice or be manipulated
+democratic_trust,democratic_trust,Confidence in shared institutions evidence and process,Trust can dampen polarization when institutions are legitimate
+cross_group_contact,cross_group_contact,Meaningful contact or recognition across groups,Contact must be high-quality to reduce hostility
+moral_exclusion,moral_exclusion_risk,Synthetic risk of excluding opponents from moral concern,Not a diagnostic score for real persons

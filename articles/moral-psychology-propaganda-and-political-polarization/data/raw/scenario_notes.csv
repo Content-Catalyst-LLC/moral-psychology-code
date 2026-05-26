@@ -1,0 +1,7 @@
+scenario,description,expected_pattern
+baseline,Average propaganda threat and democratic trust,Moderate synthetic judgment divergence
+high_propaganda,High propaganda exposure with average trust,Increased moral-political judgment divergence
+high_threat,High threat perception with average propaganda,Increased moral exclusion risk
+low_democratic_trust,Low democratic trust with average exposure,Reduced dampening of polarization
+high_contact,High cross-group contact and democratic trust,Lower moral exclusion risk in the synthetic model
+combined_escalation,High propaganda high threat high outrage low democratic trust,Highest synthetic exclusion and divergence risk

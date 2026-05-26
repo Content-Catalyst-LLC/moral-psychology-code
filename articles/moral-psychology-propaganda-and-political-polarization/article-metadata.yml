@@ -1,0 +1,36 @@
+title: "Moral Psychology, Propaganda, and Political Polarization"
+slug: "moral-psychology-propaganda-and-political-polarization"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-psychology-propaganda-and-political-polarization"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - propaganda
+  - political polarization
+  - political psychology
+  - identity
+  - trust
+  - threat perception
+  - outrage
+  - moral exclusion
+  - dehumanization
+  - democracy
+  - epistemic fragmentation
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  psychological assessment, political profiling, surveillance, persuasion targeting,
+  automated moral judgment, or decision-making about individuals or groups.
