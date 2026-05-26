@@ -1,0 +1,41 @@
+title: "Care, Empathy, and Relational Moral Life"
+slug: "care-empathy-and-relational-moral-life"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/care-empathy-and-relational-moral-life"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - care
+  - empathy
+  - relational moral life
+  - perspective-taking
+  - affective resonance
+  - responsibility
+  - dependence
+  - vulnerability
+  - burnout
+  - caregiver overload
+  - institutional support
+  - voice safety
+  - care ethics
+  - moral repair
+  - sustainable care
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  caregiver assessment, patient assessment, employee screening, school assessment,
+  healthcare triage, burnout diagnosis, psychological assessment, legal decision-making,
+  labor allocation, or automated moral judgment.

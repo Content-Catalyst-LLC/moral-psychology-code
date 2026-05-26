@@ -1,0 +1,14 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+perspective,perspective_taking,Synthetic perspective-taking capacity,Not a psychological assessment
+affect,affective_resonance,Synthetic affective resonance with another person's state,Not a diagnosis or empathy score
+salience,situational_salience,Synthetic visibility or salience of another person's condition,Not a real media or institutional visibility measure
+empathy,empathy,Synthetic empathic activation,Not a real empathy assessment
+responsibility,felt_responsibility,Synthetic felt responsibility to respond,Not a real moral responsibility score
+dependence,perceived_dependence,Synthetic perceived vulnerability or dependence,Not a real recipient-needs assessment
+persistence,temporal_persistence,Synthetic ability to sustain response over time,Not a real endurance measure
+burnout,burnout,Synthetic burnout or overload pressure,Not a burnout diagnosis
+support,institutional_support,Synthetic institutional support for care,Not a workplace healthcare or school audit
+voice,voice_safety,Synthetic protection for speaking about care failures,Not a psychological safety assessment
+care,caring_response_probability,Synthetic probability of caring response,Not a prediction of real conduct
+case_type,high_empathy_low_care,Synthetic cases with high empathy but low care under overload,Not a real-person risk classification

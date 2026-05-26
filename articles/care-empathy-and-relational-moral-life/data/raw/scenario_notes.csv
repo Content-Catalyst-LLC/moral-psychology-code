@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average empathy responsibility dependence persistence burnout support and voice safety,Moderate synthetic caring response probability
+high_empathy_low_burnout,High empathy with low burnout,Higher caring response probability
+high_empathy_high_burnout,High empathy with high burnout,Care may be suppressed despite empathic activation
+high_responsibility_high_dependence,Strong responsibility and visible dependence,Higher sustained care
+low_responsibility_high_empathy,Empathy without felt responsibility,Concern may not become durable care
+high_institutional_support,Strong institutional support and voice safety,Higher sustainable care
+low_support_high_burnout,Weak support with high burnout,Lower caring response probability
+high_empathy_low_care,High empathy with burnout overload weak support or weak responsibility,Illustrates empathy-care gap
