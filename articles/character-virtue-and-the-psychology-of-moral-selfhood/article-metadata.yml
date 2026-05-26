@@ -1,0 +1,39 @@
+title: "Character, Virtue, and the Psychology of Moral Selfhood"
+slug: "character-virtue-and-the-psychology-of-moral-selfhood"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/character-virtue-and-the-psychology-of-moral-selfhood"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - character
+  - virtue
+  - moral selfhood
+  - moral identity
+  - habituation
+  - self-regulation
+  - accountability
+  - repair capacity
+  - practical wisdom
+  - situationism
+  - institutional support
+  - virtuous action
+  - high-character low-action cases
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  personality assessment, virtue scoring, employee screening, student assessment,
+  workplace surveillance, psychological assessment, discipline systems, legal
+  decision-making, hiring, promotion, or automated moral judgment.

@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average trait habit identity regulation accountability repair pressure and institutional support,Moderate synthetic virtuous action probability
+high_character_low_pressure,High character strength with low situational pressure,Higher virtuous action probability
+high_character_high_pressure,High character strength with high situational pressure,Character supports action but pressure may suppress expression
+high_selfhood_high_repair,High moral selfhood profile and repair capacity,Higher action and recovery orientation
+low_identity_high_habit,Strong habit but weak identity integration,Action may occur but selfhood integration is weaker
+high_identity_low_repair,Strong identity but low repair capacity,Moral selfhood may become defensive without repair
+supportive_institution,High institutional support and accountability,Higher virtuous action probability
+high_character_low_action,High character but high pressure and weak support,Illustrates virtue fragility and the need for institutional support

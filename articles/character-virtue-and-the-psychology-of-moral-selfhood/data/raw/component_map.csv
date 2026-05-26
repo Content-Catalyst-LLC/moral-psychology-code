@@ -1,0 +1,14 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+trait,trait_disposition,Synthetic trait-like moral disposition,Not a personality assessment
+habit,habituated_practice,Synthetic practiced moral habit strength,Not a real habit assessment
+identity,identity_integration,Synthetic integration of moral commitments into selfhood,Not a moral identity assessment
+self_regulation,self_regulation,Synthetic capacity to sustain commitment under pressure,Not a psychological assessment
+accountability,accountability,Synthetic answerability to truth others consequence and correction,Not a real accountability audit
+repair,repair_capacity,Synthetic ability to apologize correct restore and learn from failure,Not a clinical or legal measure
+pressure,situational_pressure,Synthetic contextual pressure against virtuous action,Not a real situational audit
+support,institutional_support,Synthetic institutional support for ethical action,Not a workplace or school assessment
+character,character_strength,Synthetic character strength profile,Not a real virtue or moral worth score
+selfhood,moral_selfhood_profile,Synthetic moral selfhood profile,Not a real moral selfhood score
+action,virtuous_action_probability,Synthetic probability of virtuous action,Not a prediction of real conduct
+case_type,high_character_low_action,Synthetic cases with high character but low action under pressure,Not a real-person risk classification
