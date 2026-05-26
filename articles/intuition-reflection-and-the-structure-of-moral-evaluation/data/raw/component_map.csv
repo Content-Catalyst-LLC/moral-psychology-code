@@ -1,0 +1,20 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+intuition,perceived_harm,Synthetic recognition of injury threat vulnerability or damage,Not a real harm assessment
+intuition,affective_activation,Synthetic emotional force that makes the case vivid,Not an emotion assessment
+intuition,social_salience,Synthetic degree to which the case is socially prominent identity-relevant or publicly charged,Not a social influence assessment
+intuition,group_identity_pressure,Synthetic pressure from group belonging identity or loyalty,Not a real group-pressure measure
+intuition,intuitive_appraisal,Synthetic rapid first-pass moral evaluation,Not a real moral intuition assessment
+reflection,principled_reasoning,Synthetic use of principles consistency tests and normative commitments,Not a reasoning ability assessment
+reflection,evidential_reconsideration,Synthetic openness to facts counterevidence and uncertainty,Not a real openness or reasoning score
+reflection,contextual_knowledge,Synthetic information about history institutions consequence and situation,Not a knowledge assessment
+reflection,cultural_framing,Synthetic interpretive moral vocabulary inherited from social worlds,Not a culture diagnosis
+reflection,institutional_review,Synthetic procedural review evidence testing or formal deliberation,Not an institutional audit
+reflection,time_for_reflection,Synthetic time or space available for deliberation,Not a cognitive capacity measure
+reflection,reflective_evaluation,Synthetic later structured moral evaluation,Not a real reasoning assessment
+evaluation,intuition_weight,Synthetic relative weight assigned to intuition in final judgment,Not a real cognitive process estimate
+evaluation,final_moral_evaluation,Synthetic final moral evaluation after intuitive and reflective combination,Not a moral-worth or judgment-quality score
+evaluation,reflective_revision,Synthetic difference between reflective evaluation and intuitive appraisal,Not a real revision measure
+evaluation,revision_magnitude,Synthetic absolute size of reflective revision,Not a real cognitive-change measure
+case_type,high_intuition_high_revision,Synthetic high-intuition high-revision case type,Not a real-person classification
+case_type,reflection_correction_case,Synthetic case where reflection differs strongly from first-pass intuition,Not a real-person or real-judgment classification

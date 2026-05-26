@@ -1,0 +1,43 @@
+title: "Intuition, Reflection, and the Structure of Moral Evaluation"
+slug: "intuition-reflection-and-the-structure-of-moral-evaluation"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/intuition-reflection-and-the-structure-of-moral-evaluation"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral evaluation
+  - intuition
+  - reflection
+  - intuitive appraisal
+  - reflective evaluation
+  - social intuitionism
+  - dual-process theory
+  - moral dumbfounding
+  - post hoc justification
+  - perceived harm
+  - affective activation
+  - social salience
+  - evidential reconsideration
+  - cultural framing
+  - group identity pressure
+  - institutional review
+  - reflective revision
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  moral judgment assessment, intuition scoring, reasoning assessment, employee
+  screening, student assessment, workplace surveillance, psychological assessment,
+  legal decision-making, hiring, promotion, or automated moral judgment.

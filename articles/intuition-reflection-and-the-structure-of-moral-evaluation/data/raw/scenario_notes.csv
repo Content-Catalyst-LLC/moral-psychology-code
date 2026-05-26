@@ -1,0 +1,12 @@
+scenario,description,expected_pattern
+baseline,Average harm affect salience principles evidence context group pressure and review,Moderate synthetic final moral evaluation
+high_harm_high_affect,High perceived harm and affective activation,Higher intuitive appraisal and stronger intuition weight
+high_group_pressure,High group identity pressure and social salience,Higher intuition weight and possible motivated appraisal
+high_evidence_high_reflection,High evidential reconsideration and time for reflection,Lower intuition weight and stronger reflective contribution
+high_principle_high_context,High principled reasoning and contextual knowledge,Higher reflective evaluation
+intuition_dominant,High affect social salience and group pressure with low reflection time,Final evaluation tracks intuitive appraisal more strongly
+reflection_dominant,High evidence time for reflection and institutional review,Final evaluation tracks reflective evaluation more strongly
+high_intuition_high_revision,Strong intuition and large reflective revision,Shows conflict between first-pass appraisal and later evaluation
+reflection_correction_case,Intuitive appraisal and reflective evaluation differ in direction,Illustrates reflective correction or reversal
+moral_dumbfounding_case,Strong intuition with weak explicit reasoning variables,Illustrates judgment-before-justification pattern
+institutional_review_case,High institutional review and evidence testing,Illustrates disciplined revision and procedural reflection
