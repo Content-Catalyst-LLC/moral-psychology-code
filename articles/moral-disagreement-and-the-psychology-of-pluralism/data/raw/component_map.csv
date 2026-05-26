@@ -1,0 +1,13 @@
+component,variable,description,interpretive_warning
+harm,harm_weight,Synthetic weighting of perceived harm or suffering,Not a real-person moral trait score
+fairness,fairness_weight,Synthetic weighting of fairness equality reciprocity desert or need,Fairness can mean different things across frameworks
+loyalty,loyalty_weight,Synthetic weighting of loyalty group obligation or special duty,Loyalty can support care or justify partiality
+purity,purity_weight,Synthetic weighting of purity sanctity or symbolic boundary concern,Purity meaning depends on tradition and context
+authority,authority_weight,Synthetic weighting of authority order role duty or legitimacy,Authority can protect order or enable domination
+care,care_weight,Synthetic weighting of care compassion mercy or relational protection,Care can conflict with accountability or impartiality
+identity,identity_strength,Synthetic strength of group identity or belonging,Identity is contextual and not pathology
+framing,framing_sensitivity,Synthetic sensitivity to situational narrative or moral framing,Frames shape salience before explicit reasoning
+trust,institutional_trust,Synthetic trust in institutions procedures or shared authorities,Trust depends on legitimacy accountability and history
+tolerance,pluralist_tolerance,Synthetic tolerance for unresolved moral difference,Not an endorsement of unlimited tolerance
+judgment,moral_judgment,Synthetic moral judgment score,Not a real-person moral judgment score
+distance,disagreement_distance,Distance between synthetic moral judgments,Simplified analytic indicator only

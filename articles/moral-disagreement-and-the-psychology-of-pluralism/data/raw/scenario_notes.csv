@@ -1,0 +1,8 @@
+scenario,description,expected_pattern
+baseline,Average value weights identity strength framing and trust,Moderate synthetic disagreement
+high_value_gap,Large difference across value weights,Higher moral disagreement distance
+high_identity_gap,Large difference in identity strength,Higher disagreement when identity organizes judgment
+high_trust_gap,Large difference in institutional trust,Higher disagreement and weaker shared standards
+high_framing_gap,Large difference in case framing,Higher disagreement despite similar values
+pluralist_capacity,High trust high accountability high tolerance low exclusion,Better institutional management of disagreement
+deep_conflict,High value gap high identity gap low trust high exclusion,Highest synthetic disagreement distance

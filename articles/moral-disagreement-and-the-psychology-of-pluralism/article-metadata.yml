@@ -1,0 +1,40 @@
+title: "Moral Disagreement and the Psychology of Pluralism"
+slug: "moral-disagreement-and-the-psychology-of-pluralism"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-disagreement-and-the-psychology-of-pluralism"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral disagreement
+  - pluralism
+  - value pluralism
+  - moral relativism
+  - moral judgment
+  - harm
+  - fairness
+  - loyalty
+  - purity
+  - authority
+  - care
+  - group identity
+  - institutional trust
+  - moral disagreement distance
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  ideological scoring, political profiling, psychological assessment, persuasion targeting,
+  surveillance, moderation decisions, automated moral judgment, or decision-making about
+  individuals or groups.
