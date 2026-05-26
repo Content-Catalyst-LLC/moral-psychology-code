@@ -1,0 +1,41 @@
+title: "Moral Self-Regulation, Temptation, and Weakness of Will"
+slug: "moral-self-regulation-temptation-and-weakness-of-will"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-self-regulation-temptation-and-weakness-of-will"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral self-regulation
+  - temptation
+  - weakness of will
+  - akrasia
+  - moral judgment
+  - judgment-action gap
+  - intention maintenance
+  - self-regulatory capacity
+  - fatigue
+  - situational pressure
+  - rationalization
+  - self-deception
+  - repair capacity
+  - moral identity
+  - institutional temptation
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  willpower assessment, moral-risk scoring, employee screening, student assessment,
+  workplace surveillance, psychological assessment, legal decision-making, hiring,
+  promotion, or automated moral judgment.

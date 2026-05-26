@@ -1,0 +1,12 @@
+scenario,description,expected_pattern
+baseline,Average moral judgment temptation fatigue pressure regulation identity rationalization and repair factors,Moderate synthetic moral action probability
+high_judgment_low_temptation,High moral judgment with low temptation,Higher moral action probability
+high_judgment_high_temptation,High moral judgment with high temptation,Action may fail despite strong judgment
+high_regulation_high_temptation,High self-regulatory capacity under high temptation,Regulation weakens temptation effect
+high_fatigue_high_pressure,High fatigue and pressure,Lower moral action probability and higher weakness gap
+high_identity_high_regulation,Strong moral identity and self-regulation,Higher moral action and lower weakness
+high_rationalization_high_temptation,High rationalization under high temptation,Higher weakness of will and lower repair
+high_guilt_humility_accountability,High guilt recognition humility and accountability,Higher repair capacity
+high_judgment_low_action,High judgment with failed action under temptation fatigue pressure or rationalization,Illustrates weakness of will
+high_weakness_low_repair,Large judgment-action gap with low repair capacity,Illustrates self-regulation failure after failure
+supportive_institution,Institution reduces temptation and protects truthful repair,Action and repair become more sustainable
