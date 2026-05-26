@@ -1,0 +1,44 @@
+title: "The History of Moral Psychology: From Moral Sense Theory to Contemporary Research"
+slug: "the-history-of-moral-psychology-from-moral-sense-theory-to-contemporary-research"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/the-history-of-moral-psychology-from-moral-sense-theory-to-contemporary-research"
+status: "article scaffold"
+data_type: "synthetic historical-explanatory weights"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - history of moral psychology
+  - moral sense theory
+  - sentimentalism
+  - Hume
+  - Adam Smith
+  - rationalism
+  - Kant
+  - Piaget
+  - Kohlberg
+  - Gilligan
+  - social domain theory
+  - Bandura
+  - moral disengagement
+  - Haidt
+  - dual-process theory
+  - experimental moral psychology
+  - cross-cultural moral psychology
+  - institutional moral psychology
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended as
+  bibliometric evidence, archival measurement, author ranking, disciplinary ranking,
+  publication-count analysis, citation analysis, or a quantitative substitute for
+  historical interpretation.

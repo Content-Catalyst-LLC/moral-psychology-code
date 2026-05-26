@@ -1,0 +1,11 @@
+period,year_mid,sentiment,reason,development,intuition,culture_politics,neuroscience_experiment,institutions
+Moral Sense Theory,1735,0.80,0.30,0.10,0.35,0.10,0.00,0.15
+Hume and Smith,1765,0.85,0.35,0.10,0.40,0.15,0.00,0.25
+Rationalist Countercurrent,1785,0.20,0.90,0.10,0.10,0.10,0.00,0.20
+Nineteenth-Century Social and Evolutionary Shifts,1880,0.35,0.45,0.25,0.30,0.35,0.05,0.40
+Developmental Tradition,1965,0.20,0.75,0.95,0.20,0.15,0.20,0.20
+Care and Domain Critiques,1985,0.35,0.45,0.70,0.30,0.35,0.25,0.30
+Social Learning and Moral Disengagement,1995,0.35,0.45,0.55,0.35,0.40,0.35,0.55
+Intuitionist / Dual-Process Era,2005,0.55,0.35,0.30,0.90,0.35,0.85,0.35
+Experimental Moral Psychology Era,2015,0.50,0.40,0.35,0.80,0.60,0.95,0.50
+Contemporary Pluralist and Institutional Era,2025,0.45,0.40,0.45,0.75,0.85,0.80,0.90
