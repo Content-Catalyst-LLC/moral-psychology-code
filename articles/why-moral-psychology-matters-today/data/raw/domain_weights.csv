@@ -1,0 +1,7 @@
+domain,variable,weight,description
+politics,political_polarization,0.25,Polarization and moralized public conflict
+organizations,organizational_risk,0.20,Institutional risk ethical fading and distributed responsibility
+development,developmental_moral_learning,0.15,Moral learning across the lifespan
+culture,cross_cultural_variation,0.15,Variation and overlap in moral judgment across cultures
+technology,technology_amplification,0.15,Digital moral amplification outrage visibility and networked judgment
+moral_injury,moral_injury_burden,0.20,Moral injury institutional betrayal conscience and repair

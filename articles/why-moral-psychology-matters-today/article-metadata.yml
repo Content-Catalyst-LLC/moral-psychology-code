@@ -1,0 +1,33 @@
+title: "Why Moral Psychology Matters Today"
+slug: "why-moral-psychology-matters-today"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/why-moral-psychology-matters-today"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral judgment
+  - moral responsibility
+  - political polarization
+  - organizational ethics
+  - moral injury
+  - digital moral life
+  - moral development
+  - cross-cultural moral psychology
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  psychological assessment, employee screening, surveillance, automated moral
+  judgment, clinical diagnosis, or decision-making about individuals.
