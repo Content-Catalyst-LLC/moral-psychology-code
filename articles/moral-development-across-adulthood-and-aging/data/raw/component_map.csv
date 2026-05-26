@@ -1,0 +1,16 @@
+component,variable,description,interpretive_warning
+age,age,Synthetic adult age from 18 to 85,Not real demographic data
+band,adulthood_band,Synthetic adult lifespan band,Not a clinical or developmental classification
+identity,moral_identity,Synthetic moral identity integration,Not a real moral identity assessment
+prosociality,prosocial_orientation,Synthetic prosocial orientation or care for others,Not a real altruism measure
+role,role_complexity,Synthetic adult role complexity and responsibility,Not a real family or workplace assessment
+emotion,moral_emotion_profile,Synthetic moral-emotional profile including empathy guilt pride regret and compassion,Not a psychological assessment
+decision,decision_capacity,Synthetic cognitive-social decision capacity,Not a cognitive test
+generativity,generativity,Synthetic long-horizon concern legacy and intergenerational care,Not a real generativity measure
+burden,caregiving_burden,Synthetic burden depletion or care fatigue,Not a caregiver assessment
+loss,loss_reflection,Synthetic loss-driven reflection or relational reorientation,Not a grief or mental health measure
+voice,voice_safety,Synthetic protection for speaking warning dissenting or reporting,Not an institutional audit
+accountability,accountability_strength,Synthetic accountability review and responsibility structure,Not a governance audit
+profile,latent_moral_development,Synthetic adult moral-development profile,Not a real moral-development score
+action,moral_action_probability,Synthetic probability of moral action,Not a prediction of real conduct
+case,high_development_low_action,Synthetic cases with strong profile but low action under burden,Not a real-person risk classification

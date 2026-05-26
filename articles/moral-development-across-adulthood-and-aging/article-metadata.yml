@@ -1,0 +1,41 @@
+title: "Moral Development Across Adulthood and Aging"
+slug: "moral-development-across-adulthood-and-aging"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-development-across-adulthood-and-aging"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral development
+  - adulthood
+  - aging
+  - lifespan development
+  - moral identity
+  - prosociality
+  - role responsibility
+  - moral emotion
+  - caregiving
+  - generativity
+  - loss
+  - regret
+  - wisdom
+  - moral repair
+  - adult moral action
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  elder assessment, caregiver assessment, workplace assessment, healthcare triage,
+  psychological assessment, moral-development scoring, legal decision-making,
+  policy allocation, or automated moral judgment.

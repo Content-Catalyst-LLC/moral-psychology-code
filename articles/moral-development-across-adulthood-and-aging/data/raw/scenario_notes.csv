@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average age identity prosociality role complexity emotion decision capacity burden and accountability,Moderate synthetic moral-development profile
+emerging_adulthood_identity,High moral identity in emerging adulthood,Higher moral-development profile through identity formation
+midlife_role_complexity,High role complexity in midlife,Higher responsibility but possible pressure and burden
+older_adulthood_generativity,High generativity in older adulthood,Higher prosocial and legacy-oriented profile
+high_burden_low_action,High moral-development profile with high caregiving burden and weak support,Lower moral action probability
+loss_reflection_repair,High loss reflection with accountability,Higher repair-oriented moral profile
+high_voice_safety,Strong voice safety and accountability,Higher moral action probability
+low_support_high_pressure,Low voice safety with high burden and pressure,Lower ethical expression despite adult commitments
