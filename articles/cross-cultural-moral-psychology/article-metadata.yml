@@ -1,0 +1,40 @@
+title: "Cross-Cultural Moral Psychology"
+slug: "cross-cultural-moral-psychology"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/cross-cultural-moral-psychology"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - cross-cultural psychology
+  - cultural psychology
+  - moral judgment
+  - harm
+  - fairness
+  - loyalty
+  - authority
+  - purity
+  - relational obligation
+  - norm learning
+  - norm enforcement
+  - value pluralism
+  - moral relativism
+  - methodological humility
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  cultural ranking, national-character assessment, religious profiling, ethnic classification,
+  psychological assessment, surveillance, persuasion targeting, automated moral judgment,
+  or decision-making about individuals or groups.

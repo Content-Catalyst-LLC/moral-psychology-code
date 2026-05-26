@@ -1,0 +1,13 @@
+component,variable,description,interpretive_warning
+culture,culture,Synthetic cultural-context label,Do not interpret synthetic contexts as real cultures nations religions or populations
+harm,harm_sensitivity,Synthetic harm-perception or harm-sensitivity dimension,Harm may be construed differently across contexts
+fairness,fairness_sensitivity,Synthetic fairness or reciprocity dimension,Fairness may mean equality need merit role duty or reciprocity
+loyalty,loyalty_sensitivity,Synthetic loyalty or group-obligation dimension,Loyalty can support care or justify partiality
+authority,authority_sensitivity,Synthetic authority or norm-order dimension,Authority may be religious legal elder-based customary or institutional
+purity,purity_sensitivity,Synthetic purity sanctity or contamination dimension,Purity meaning depends heavily on tradition and context
+relationship,relational_obligation,Synthetic relational-duty and close-other obligation dimension,Relational obligation is not the same as corruption or nepotism
+learning,norm_learning,Synthetic norm-learning and socialization dimension,Norm learning is culturally structured and developmentally shaped
+sanction,sanction_expectation,Synthetic expected sanction or enforcement strength,Sanction expectations vary with meta-norms and institutions
+judgment,moral_judgment,Synthetic culturally weighted moral judgment score,Not a real-person or real-culture moral score
+enforcement,norm_enforcement_tendency,Synthetic norm-enforcement tendency,Not a real enforcement prediction
+pluralism,moral_profile_vector,Vector of cultural value weights,Simplified analytic representation only
