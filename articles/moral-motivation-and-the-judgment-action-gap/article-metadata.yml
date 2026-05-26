@@ -1,0 +1,40 @@
+title: "Moral Motivation and the Judgment–Action Gap"
+slug: "moral-motivation-and-the-judgment-action-gap"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-motivation-and-the-judgment-action-gap"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral motivation
+  - judgment-action gap
+  - moral judgment
+  - emotional activation
+  - moral identity
+  - self-regulation
+  - situational pressure
+  - rationalization
+  - moral action
+  - repair capacity
+  - moral licensing
+  - weakness of will
+  - akrasia
+  - institutional design
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  moral-risk scoring, employee screening, student assessment, workplace surveillance,
+  psychological assessment, legal decision-making, hiring, promotion, or automated
+  moral judgment.

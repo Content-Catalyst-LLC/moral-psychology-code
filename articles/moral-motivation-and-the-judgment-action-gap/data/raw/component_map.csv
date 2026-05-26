@@ -1,0 +1,18 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+judgment,moral_judgment,Synthetic moral judgment strength,Not a real moral reasoning assessment
+emotion,emotional_activation,Synthetic emotional force such as guilt compassion anger shame or elevation,Not a clinical or affective assessment
+identity,moral_identity,Synthetic centrality of moral commitments to self-concept,Not a moral identity assessment
+regulation,self_regulation,Synthetic capacity to sustain commitment under pressure,Not a psychological assessment
+pressure,situational_pressure,Synthetic contextual force against moral action,Not a real institutional audit
+rationalization,rationalization_tendency,Synthetic tendency to redescribe or excuse moral failure,Not a clinical or character assessment
+action,moral_action_probability,Synthetic probability of moral action,Not a prediction of real conduct
+action,moral_action,Synthetic binary moral action indicator,Not real behavior
+gap,judgment_action_gap,Synthetic gap between moral judgment and action,Not a real moral-worth measure
+repair,guilt_recognition,Synthetic recognition of guilt or wrongdoing,Not a clinical guilt measure
+repair,humility,Synthetic openness to correction and limits,Not a personality assessment
+repair,accountability,Synthetic answerability to truth others and consequence,Not a governance or legal audit
+repair,defensiveness,Synthetic self-protective resistance to evidence or correction,Not a diagnosis
+repair,repair_capacity,Synthetic capacity for apology correction restitution and learning,Not a real repair assessment
+case_type,high_judgment_low_action,Synthetic cases with high judgment but failed action,Not a real-person risk classification
+case_type,large_gap_low_repair,Synthetic cases with large judgment-action gap and low repair capacity,Not a real-person risk classification

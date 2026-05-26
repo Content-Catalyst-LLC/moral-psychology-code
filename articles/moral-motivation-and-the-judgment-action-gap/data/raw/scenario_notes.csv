@@ -1,0 +1,11 @@
+scenario,description,expected_pattern
+baseline,Average moral judgment emotion identity regulation pressure rationalization and repair factors,Moderate synthetic moral action probability
+high_judgment_low_pressure,High moral judgment with low situational pressure,Higher moral action probability
+high_judgment_high_pressure,High moral judgment with high situational pressure,Action may fail despite strong judgment
+high_emotion_high_identity,High emotional activation and moral identity,Judgment becomes more action-guiding
+high_regulation_high_pressure,High self-regulation under high pressure,Regulation reduces the pressure effect
+high_rationalization_high_pressure,High rationalization under high pressure,Higher judgment-action gap and lower action
+high_guilt_humility_accountability,High guilt recognition humility and accountability,Higher repair capacity
+high_judgment_low_action,High judgment but failed action under pressure rationalization or weak regulation,Illustrates judgment-action gap
+large_gap_low_repair,Large gap with high defensiveness and weak accountability,Illustrates failure after failure
+supportive_institution,Institution protects voice repair and ethical follow-through,Motivation becomes more likely to become action
