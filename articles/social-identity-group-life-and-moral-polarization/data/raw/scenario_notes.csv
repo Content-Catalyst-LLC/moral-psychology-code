@@ -1,0 +1,8 @@
+scenario,description,expected_pattern
+baseline,Average identity norm pressure threat trust and contact,Moderate synthetic divergence
+high_identity,High group identity strength with average threat,Higher group-conditioned moral judgment
+high_threat,High threat perception with average identity,Higher divergence and moral exclusion risk
+low_trust,Low institutional trust with average identity and threat,Lower dampening of polarization
+high_contact,High cross-group contact and institutional trust,Lower moral exclusion risk
+high_dehumanization,High dehumanizing rhetoric and loyalty pressure,Higher moral exclusion risk
+combined_escalation,High identity high threat high norms low trust low contact high dehumanization,Highest synthetic polarization and exclusion risk

@@ -1,0 +1,13 @@
+component,variable,description,interpretive_warning
+identity,group,Synthetic group label,Do not interpret synthetic groups as real political or social populations
+values,value_profile,Synthetic individual value profile,Values alone do not explain moral polarization
+identity,identity_strength,Synthetic strength of social or group identity,Identity is contextual and not a pathology
+norms,norm_pressure,Synthetic group norm pressure,Norm pressure can sustain solidarity or suppress dissent
+threat,threat_perception,Synthetic perceived outgroup or identity threat,Threat perception may be real distorted or amplified
+trust,institutional_trust,Synthetic trust in shared institutions or procedures,Trust depends on legitimacy accountability and history
+contact,cross_group_contact,Synthetic cross-group recognition or contact,Contact quality matters more than contact quantity
+rhetoric,dehumanizing_rhetoric,Synthetic exposure to dehumanizing or exclusionary rhetoric,Not a diagnostic or real-content classification
+loyalty,loyalty_pressure,Synthetic pressure to publicly align with group norms,Loyalty can support care or punish moral independence
+judgment,moral_judgment,Synthetic group-conditioned moral judgment score,Not a real person's moral judgment score
+exclusion,moral_exclusion_risk,Synthetic moral exclusion risk value,Not a real-person or group assessment
+polarization,polarization_distance,Distance between average group moral judgments,Simplified analytic indicator only

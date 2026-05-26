@@ -1,0 +1,36 @@
+title: "Social Identity, Group Life, and Moral Polarization"
+slug: "social-identity-group-life-and-moral-polarization"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/social-identity-group-life-and-moral-polarization"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - social identity
+  - group life
+  - moral polarization
+  - group norms
+  - partisan bias
+  - identity threat
+  - moral exclusion
+  - dehumanization
+  - institutional trust
+  - cross-group contact
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  political profiling, ideological classification, surveillance, persuasion targeting,
+  psychological assessment, automated moral judgment, or decision-making about individuals
+  or groups.
