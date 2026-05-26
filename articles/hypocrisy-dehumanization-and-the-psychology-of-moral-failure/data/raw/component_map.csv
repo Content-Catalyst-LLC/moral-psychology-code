@@ -1,0 +1,14 @@
+component,variable,description,interpretive_warning
+judgment_other,judgment_other,Synthetic judgment strictness applied to others,Not a real moral judgment score
+judgment_self,judgment_self,Synthetic judgment strictness applied to self or ingroup,Not a real moral judgment score
+hypocrisy,hypocrisy,Synthetic asymmetry between judgment of others and judgment of self,Not a real-person hypocrisy diagnosis
+humanness,perceived_humanness,Synthetic perceived humanness or full moral standing of a target,Not a real dehumanization assessment
+dehumanization,dehumanization,Synthetic reduction in perceived moral standing,Not a real group or individual assessment
+ingroup,ingroup_bias,Synthetic ingroup favoritism or group-selective judgment,Not a real political or social identity measure
+empathy,empathic_recognition,Synthetic recognition of target suffering dignity and personhood,Not a psychological assessment
+values,public_value_claim,Synthetic strength of professed public values,Not an institutional audit
+practice,actual_practice_integrity,Synthetic integrity of lived practice compared with stated values,Not an institutional audit
+institution,institutional_hypocrisy,Synthetic gap between public values and actual practice,Not a real organizational evaluation
+accountability,accountability_strength,Synthetic accountability strength,Not a governance audit
+visibility,victim_visibility,Synthetic visibility of harmed persons or affected groups,Not a measure of real testimony or harm
+failure,moral_failure_probability,Synthetic probability of moral failure under modeled conditions,Not a prediction of real conduct

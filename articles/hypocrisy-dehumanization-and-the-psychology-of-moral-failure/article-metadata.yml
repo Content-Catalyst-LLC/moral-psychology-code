@@ -1,0 +1,39 @@
+title: "Hypocrisy, Dehumanization, and the Psychology of Moral Failure"
+slug: "hypocrisy-dehumanization-and-the-psychology-of-moral-failure"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/hypocrisy-dehumanization-and-the-psychology-of-moral-failure"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - hypocrisy
+  - dehumanization
+  - moral failure
+  - moral exclusion
+  - double standards
+  - moral comparability
+  - ingroup bias
+  - empathic recognition
+  - institutional hypocrisy
+  - public value claims
+  - accountability
+  - victim visibility
+  - ethical distance
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  moral character assessment, dehumanization detection, employee discipline,
+  content moderation, political persuasion, surveillance, psychological assessment,
+  legal decision-making, or automated moral judgment.

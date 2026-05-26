@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average hypocrisy dehumanization ingroup bias empathy and accountability,Moderate synthetic moral failure risk
+high_hypocrisy,High double-standard asymmetry,Higher synthetic moral failure probability
+high_dehumanization,Low perceived moral standing or humanness,Higher moral failure probability
+high_hypocrisy_high_dehumanization,High double standards and high moral exclusion,Highest synthetic moral failure risk
+high_empathy,High empathic recognition,Lower moral failure probability
+high_accountability,Strong accountability and victim visibility,Lower moral failure probability
+institutional_hypocrisy_gap,High public values with low actual practice integrity,Higher institutional moral failure risk
+low_victim_visibility,Victims or harmed groups are made abstract or invisible,Higher risk of moral failure and ethical distance
