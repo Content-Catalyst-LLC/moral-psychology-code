@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average fairness principle weights bias trust group distance and repair salience,Moderate synthetic distributive judgment
+high_need_low_bias,High need weight with low self-interest bias,Higher support for fair allocation
+high_need_high_bias,High need weight with high self-interest bias,Need concern may be suppressed by bias
+high_priority_worse_off,High priority to the worse off,Higher distributive judgment when deprivation is salient
+high_group_distance,High social distance from recipients,Lower distributive support
+high_procedural_trust,High trust in procedure,Higher legitimacy and support
+historical_repair_salient,High historical repair salience,Higher support when present distribution is tied to past injustice
+meritocracy_pressure,High equity and desert with low repair salience,Greater emphasis on contribution and deserved reward

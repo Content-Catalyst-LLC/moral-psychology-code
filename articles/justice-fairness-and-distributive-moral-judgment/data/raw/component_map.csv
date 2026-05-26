@@ -1,0 +1,13 @@
+component,variable,description,interpretive_warning
+equality,equality_weight,Synthetic concern for equal shares equal standing or baseline entitlement,Not a real-person justice preference score
+equity,equity_weight,Synthetic concern for contribution effort productivity or proportionality,Contribution depends on opportunity context and hidden labor
+need,need_weight,Synthetic concern for vulnerability deprivation or urgency,Need judgments are vulnerable to stigma and deservingness narratives
+desert,desert_weight,Synthetic concern for responsibility merit conduct or deserved reward,Desert can obscure luck inherited advantage and structural constraint
+priority,priority_worse_off,Synthetic concern for priority to the worse off,Not a policy recommendation
+bias,self_interest_bias,Synthetic self-interest bias in distributive judgment,Not a moral diagnosis
+procedure,procedural_trust,Synthetic trust in distributive procedure or institutional legitimacy,Not an institutional audit
+group,group_distance,Synthetic social distance from recipient or affected group,Not a real group-attitude measure
+repair,historical_repair_salience,Synthetic salience of historical repair or inherited injustice,Historical claims require real evidence and context
+judgment,distributive_judgment,Synthetic distributive moral judgment score,Not a real policy or person score
+support,support_fair_allocation,Synthetic support indicator for modeled fair allocation,Not a prediction of real public opinion
+inequity,inequity_aversion,Synthetic inequity-aversion score,Not a psychological assessment

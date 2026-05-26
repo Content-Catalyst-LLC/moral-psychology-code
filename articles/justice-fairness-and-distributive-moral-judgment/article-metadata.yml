@@ -1,0 +1,40 @@
+title: "Justice, Fairness, and Distributive Moral Judgment"
+slug: "justice-fairness-and-distributive-moral-judgment"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/justice-fairness-and-distributive-moral-judgment"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - justice
+  - fairness
+  - distributive moral judgment
+  - distributive justice
+  - equality
+  - equity
+  - need
+  - desert
+  - priority to the worse off
+  - self-interest bias
+  - procedural justice
+  - group identity
+  - historical repair
+  - inequity aversion
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  policy evaluation, eligibility decisions, welfare scoring, employment compensation,
+  political persuasion, surveillance, psychological assessment, legal advice, or
+  automated distributive-justice decisions.
