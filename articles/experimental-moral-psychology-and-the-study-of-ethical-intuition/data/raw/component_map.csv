@@ -1,0 +1,9 @@
+component,variable,description,interpretive_warning
+intuition,intuition_strength,Fast intuitive appraisal strength,Do not treat intuition as automatically reliable or unreliable
+reflection,reflection_strength,Deliberative or reflective control,Reflection can correct intuition or rationalize it
+norm_sensitivity,norm_sensitivity,Responsiveness to moral norms constraints or prohibitions,Not identical to deontological theory
+consequence_sensitivity,consequence_sensitivity,Attention to outcomes welfare or aggregate consequences,Not identical to formal utilitarianism
+intentionality,intentionality,Perceived intention or agency,May be inferred from outcomes or moral evaluation
+excuse,excuse_strength,Reduced blame due to constraint ignorance or diminished control,Must be distinguished from denial of wrongness
+group_identity,group_identity_salience,Salience of group membership or identity,Can shape moral attention and blame
+power,power_condition,Experimental power context low control or high,Power may alter norm sensitivity and responsibility perception

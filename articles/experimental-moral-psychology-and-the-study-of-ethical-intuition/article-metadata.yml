@@ -1,0 +1,35 @@
+title: "Experimental Moral Psychology and the Study of Ethical Intuition"
+slug: "experimental-moral-psychology-and-the-study-of-ethical-intuition"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/experimental-moral-psychology-and-the-study-of-ethical-intuition"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - experimental moral psychology
+  - ethical intuition
+  - moral judgment
+  - reflection
+  - norm sensitivity
+  - consequence sensitivity
+  - blame
+  - intention
+  - excuse
+  - process modeling
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  psychological assessment, employee screening, surveillance, automated moral
+  judgment, clinical diagnosis, or decision-making about individuals.

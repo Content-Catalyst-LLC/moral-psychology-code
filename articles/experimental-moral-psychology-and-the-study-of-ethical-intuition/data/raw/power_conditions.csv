@@ -1,0 +1,4 @@
+condition,description,expected_design_role
+low_power,Participant or agent is framed as having reduced power,May increase sensitivity to constraint vulnerability or norm violation
+control,Baseline condition without explicit power manipulation,Reference group for comparison
+high_power,Participant or agent is framed as having elevated power,May reduce norm sensitivity or alter responsibility interpretation
