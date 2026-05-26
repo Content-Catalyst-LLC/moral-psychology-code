@@ -1,0 +1,13 @@
+scenario,description,expected_pattern
+baseline,Average developmental predictors and domain profile,Moderate synthetic reasoning complexity
+high_perspective_taking,High perspective-taking with average age and norm exposure,Higher justice reasoning and latent reasoning
+high_domain_differentiation,High distinction among moral conventional personal and prudential domains,Higher autonomy orientation and clearer domain profile
+high_authority_orientation,High deference to authority and external rule structure,Higher conventional sensitivity and lower autonomy orientation
+high_peer_cooperation,High peer cooperation mutual respect and rule negotiation,Higher autonomous morality and reasoning complexity
+high_relational_orientation,High relational care and vulnerability awareness,Higher care reasoning
+high_cultural_support,High support for moral dialogue and reflective norm learning,Higher latent reasoning and civic-development potential
+preconventional_profile,Low latent reasoning with high authority orientation,Stage_1_2 style profile
+conventional_profile,Moderate latent reasoning with social order and norm exposure,Stage_3_4 style profile
+postconventional_profile,Higher latent reasoning with perspective-taking and domain differentiation,Stage_5_6 style profile
+high_complexity_case,High justice care and domain differentiation,Plural moral maturity profile
+stage_domain_mismatch_case,Stage-like category conflicts with domain profile,Illustrates why stage labels should not be treated as complete moral profiles

@@ -1,0 +1,44 @@
+title: "Moral Reasoning: Piaget, Kohlberg, and the Developmental Tradition"
+slug: "moral-reasoning-piaget-kohlberg-and-the-developmental-tradition"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-reasoning-piaget-kohlberg-and-the-developmental-tradition"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral reasoning
+  - moral development
+  - Jean Piaget
+  - Lawrence Kohlberg
+  - developmental tradition
+  - heteronomous morality
+  - autonomous morality
+  - Kohlberg stages
+  - preconventional reasoning
+  - conventional reasoning
+  - postconventional reasoning
+  - justice reasoning
+  - care reasoning
+  - social domain theory
+  - moral conventional distinction
+  - domain differentiation
+  - perspective-taking
+  - moral education
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  moral-development assessment, student assessment, school evaluation, psychological
+  assessment, child-development diagnosis, employee screening, hiring, promotion,
+  or automated moral judgment.

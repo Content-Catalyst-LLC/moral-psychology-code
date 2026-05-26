@@ -1,0 +1,19 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+development,age,Synthetic developmental age from childhood through young adulthood,Not real demographic data
+development,perspective_taking,Synthetic capacity to consider intentions viewpoints and reciprocity,Not a psychological assessment
+development,norm_exposure,Synthetic exposure to rules norms dialogue and social learning,Not a real family or school measure
+development,domain_differentiation,Synthetic distinction among moral conventional personal and prudential domains,Not a real developmental assessment
+development,relational_orientation,Synthetic sensitivity to care dependency relationship and responsiveness,Not a real care-orientation assessment
+development,authority_orientation,Synthetic tendency to defer to authority rule or external command,Not a real authority-orientation assessment
+development,peer_cooperation,Synthetic cooperation mutual respect and peer-rule negotiation,Not a real peer relationship measure
+development,cultural_context_support,Synthetic cultural and institutional support for moral dialogue,Not a real culture or school assessment
+reasoning,latent_reasoning,Synthetic underlying developmental moral reasoning complexity,Not a real moral-development score
+reasoning,reasoning_stage,Synthetic stage-like ordered reasoning category,Not a real Kohlberg stage assessment
+reasoning,justice_reasoning,Synthetic justice rights fairness reciprocity and principle dimension,Not a real justice-reasoning score
+reasoning,care_reasoning,Synthetic care relationship vulnerability and responsiveness dimension,Not a real care-reasoning score
+reasoning,conventional_sensitivity,Synthetic sensitivity to convention authority coordination and local rules,Not a real social-domain assessment
+reasoning,autonomy_orientation,Synthetic ability to evaluate rules through cooperation and mutual respect,Not a real autonomy assessment
+case_type,high_complexity_case,Synthetic case with high justice care and domain differentiation,Not a real-person classification
+case_type,stage_domain_mismatch_case,Synthetic mismatch between stage-like label and domain profile,Not a real-person classification
+education,moral_education_scenario,Synthetic moral education or civic formation scenario,Not a real school or student evaluation
