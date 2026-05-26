@@ -1,0 +1,41 @@
+title: "Moral Disengagement and the Psychology of Ethical Failure"
+slug: "moral-disengagement-and-the-psychology-of-ethical-failure"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-disengagement-and-the-psychology-of-ethical-failure"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral disengagement
+  - ethical failure
+  - moral justification
+  - euphemistic language
+  - advantageous comparison
+  - responsibility shifting
+  - responsibility diffusion
+  - consequence distortion
+  - dehumanization
+  - victim blaming
+  - anticipated guilt
+  - institutional pressure
+  - victim recognition
+  - accountability
+  - organizational ethics
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  employee screening, workplace surveillance, misconduct prediction, disciplinary
+  decisions, psychological assessment, legal decision-making, content moderation,
+  political targeting, or automated moral judgment.

@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average disengagement pressure guilt accountability and victim recognition,Moderate synthetic ethical failure risk
+high_disengagement_low_guilt,High disengagement with low anticipated guilt,Higher unethical action probability
+high_pressure_high_disengagement,High institutional pressure and high disengagement,Higher ethical failure risk
+high_accountability,Strong accountability with average disengagement,Lower unethical action probability
+high_victim_recognition,High victim recognition and consequence visibility,Lower disengagement and lower ethical failure risk
+euphemistic_institution,High euphemistic language and high responsibility shifting,Higher moral disengagement
+diffusion_of_responsibility,High responsibility shifting with low accountability,Higher ethical failure probability
+dehumanization_victim_blame,High dehumanization and victim blaming,Higher disengagement and failure risk

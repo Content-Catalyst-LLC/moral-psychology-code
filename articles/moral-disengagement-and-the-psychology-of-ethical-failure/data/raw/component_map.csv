@@ -1,0 +1,16 @@
+component,variable,description,interpretive_warning
+justification,moral_justification,Synthetic moral justification or higher-purpose reframing,Not a real ethical assessment
+language,euphemistic_language,Synthetic use of sanitized or distancing moral language,Not a language audit result
+comparison,advantageous_comparison,Synthetic comparison with worse conduct or alternatives,Not a real comparative harm assessment
+responsibility,responsibility_shifting,Synthetic displacement or diffusion of responsibility,Not a real accountability finding
+consequence,consequence_distortion,Synthetic minimization or distortion of consequences,Not a real harm assessment
+dehumanization,dehumanization,Synthetic dehumanization or reduction of perceived moral standing,Not a real person or group assessment
+victim_blame,victim_blaming,Synthetic blaming of harmed persons or groups,Not a legal or psychological assessment
+guilt,anticipated_guilt,Synthetic anticipated guilt or self-sanction,Not a psychological diagnosis
+pressure,institutional_pressure,Synthetic situational or organizational pressure,Not an institutional audit
+visibility,consequence_visibility,Synthetic visibility of human consequences,Not a real impact assessment
+recognition,victim_recognition,Synthetic recognition of harmed person dignity and standing,Not a measure of real testimony
+accountability,accountability_strength,Synthetic accountability strength,Not a governance audit
+disengagement,moral_disengagement,Synthetic moral disengagement score,Not a real-person moral diagnosis
+action,unethical_action_probability,Synthetic probability of unethical action,Not a prediction of real conduct
+risk,ethical_failure_risk,Synthetic ethical failure risk under modeled conditions,Not a workplace or institutional risk score
