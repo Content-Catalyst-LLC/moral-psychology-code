@@ -1,0 +1,4 @@
+condition,description,expected_design_role
+control,Baseline scenario without extra intention or excuse cue,Reference group for comparison
+intent_salient,Scenario emphasizes agent intention or knowledge,Tests whether intention salience increases wrongness judgment
+excuse_salient,Scenario emphasizes excuse constraint or reduced control,Tests whether excuse salience reduces blame judgment

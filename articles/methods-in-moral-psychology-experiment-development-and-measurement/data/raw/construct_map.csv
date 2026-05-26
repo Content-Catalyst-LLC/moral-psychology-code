@@ -1,0 +1,7 @@
+construct,indicator_type,example_measure,measurement_warning
+wrongness_judgment,vignette_rating,How morally wrong was the action?,Do not collapse with blame or punishment preference
+blame_judgment,vignette_rating,How blameworthy is the actor?,Depends on intention knowledge control and excuse
+norm_learning,developmental_indicator,Norm recognition or transgression correction,Age tasks must be developmentally appropriate
+action_tendency,behavioral_task,Helping sharing punishing or reporting choice,Observed behavior still requires context-sensitive interpretation
+moral_identity,self_report,Centrality of morality to self-concept,May be influenced by social desirability and self-presentation
+social_desirability,response_style,Desire to present oneself favorably,Can distort self-report and moral self-description

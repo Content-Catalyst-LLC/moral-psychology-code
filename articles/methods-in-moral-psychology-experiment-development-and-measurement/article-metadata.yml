@@ -1,0 +1,34 @@
+title: "Methods in Moral Psychology: Experiment, Development, and Measurement"
+slug: "methods-in-moral-psychology-experiment-development-and-measurement"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/methods-in-moral-psychology-experiment-development-and-measurement"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - methods
+  - experimental design
+  - developmental psychology
+  - moral judgment
+  - blame
+  - norm learning
+  - construct validity
+  - measurement
+  - cross-cultural generalizability
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  psychological assessment, employee screening, surveillance, automated moral
+  judgment, clinical diagnosis, or decision-making about individuals.
