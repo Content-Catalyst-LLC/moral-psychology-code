@@ -1,0 +1,7 @@
+scenario,description,expected_pattern
+baseline,Average outrage reward amplification identity and correction,Moderate synthetic expression probability
+high_reward,High expected social reward with average outrage,Higher probability of public outrage expression
+high_identity,High group identity salience with average outrage,Higher identity-aligned moral expression
+high_amplification,High algorithmic amplification and visibility bias,Higher norm extremity and moralized sharing
+high_correction,High contextual correction with average outrage,Lower public expression probability and lower moralized sharing
+combined_escalation,High outrage high reward high amplification high identity low correction,Highest synthetic expression and norm-distortion risk

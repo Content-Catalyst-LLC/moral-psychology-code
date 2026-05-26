@@ -1,0 +1,12 @@
+component,variable,description,interpretive_warning
+outrage,outrage_intensity,Felt moral outrage in response to perceived wrongdoing,Outrage can be morally important or distorted depending on context
+reward,expected_reward,Expected social reward from public expression,Reward is not identical to moral validity
+algorithm,algorithmic_amplification,Estimated visibility or ranking advantage,Amplification is not the same as public importance
+identity,group_identity_salience,Strength of group or moral-community identity salience,Identity can shape expression and interpretation
+visibility,visibility_bias,Overrepresentation of extreme or highly engaging content,Visibility is not representativeness
+correction,contextual_correction,Context evidence deliberation or repair that dampens escalation,Correction depends on trust and timing
+misinformation,misinformation_susceptibility,Susceptibility to sharing inaccurate moralized content,Not a real-person diagnosis
+cross_group,cross_group_exposure,Exposure to different groups or perspectives,Contact quality matters more than mere exposure
+expression,outrage_expression,Public expression of outrage,Expression is shaped by social and platform incentives
+norms,perceived_norm_extremity,Perceived extremity of visible norms,May reflect platform distortion rather than actual group belief
+sharing,moralized_sharing,Sharing of morally charged content,Can mobilize solidarity or spread misinformation

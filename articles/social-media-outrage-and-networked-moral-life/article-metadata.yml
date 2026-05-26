@@ -1,0 +1,37 @@
+title: "Social Media, Outrage, and Networked Moral Life"
+slug: "social-media-outrage-and-networked-moral-life"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/social-media-outrage-and-networked-moral-life"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - social media
+  - outrage
+  - networked moral life
+  - algorithmic amplification
+  - moralized sharing
+  - norm distortion
+  - pluralistic ignorance
+  - misinformation
+  - online hate
+  - dehumanization
+  - collective action
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  psychological assessment, political profiling, surveillance, persuasion targeting,
+  platform manipulation, automated moral judgment, or decision-making about individuals
+  or groups.
