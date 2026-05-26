@@ -1,0 +1,12 @@
+scenario,description,expected_pattern
+baseline,Average harm norm violation intention emotion ambiguity agency and repair,Moderate synthetic wrongness and blame
+high_harm_high_intention,High perceived harm and inferred intention,Higher wrongness and blame
+high_norm_violation_low_harm,High norm violation but low perceived harm,Moderate wrongness with blame depending on agency
+high_harm_low_intention,High harm but low inferred intention,Wrongness may remain high while blame may soften
+high_ambiguity,High situational ambiguity,Reduced certainty and potentially lower blame
+high_social_pressure,High audience group or public pressure,Stronger judgment intensity and potential punitive pressure
+high_repair_opportunity,High repair opportunity and dignity preservation,Higher constructive response
+low_repair_high_blame,High blame with low repair opportunity,Punitive pressure may rise while constructive response weakens
+wrongness_blame_divergence,Wrongness and blame diverge substantially,Illustrates why wrongness and blame must be separated
+digital_public_condemnation,High social pressure group framing emotion and punitive pressure,Judgment accelerates and may outpace context
+institutional_accountability,High institutional support repair opportunity and dignity preservation,Judgment can support accountability and repair

@@ -1,0 +1,43 @@
+title: "Moral Judgment and the Psychology of Right and Wrong"
+slug: "moral-judgment-and-the-psychology-of-right-and-wrong"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-judgment-and-the-psychology-of-right-and-wrong"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral judgment
+  - right and wrong
+  - wrongness
+  - blame
+  - responsibility
+  - accountability
+  - perceived harm
+  - norm violation
+  - inferred intention
+  - emotional activation
+  - ideological framing
+  - social pressure
+  - repair opportunity
+  - institutional support
+  - punitive pressure
+  - constructive response
+  - digital judgment
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  moral judgment assessment, blame scoring, psychological assessment, employee
+  screening, student assessment, workplace surveillance, legal decision-making,
+  hiring, promotion, or automated moral judgment.
