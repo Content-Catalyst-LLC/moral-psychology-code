@@ -1,0 +1,19 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+identity,internalization,Synthetic private centrality of moral traits to self-concept,Not a moral identity assessment
+identity,symbolization,Synthetic public expression of moral identity,Not a real virtue or display measure
+identity,narrative_integration,Synthetic integration of moral episodes into self-story,Not a clinical or psychological assessment
+identity,norm_integration,Synthetic integration of moral norms into self-concept,Not a real norm-internalization score
+judgment,moral_judgment,Synthetic moral judgment strength,Not a real moral reasoning assessment
+regulation,self_regulatory_capacity,Synthetic capacity to sustain commitment under pressure,Not a psychological assessment
+pressure,situational_pressure,Synthetic contextual pressure against moral action,Not a real situational audit
+identity,moral_identity,Synthetic moral identity strength,Not a real moral worth score
+action,moral_action_probability,Synthetic probability of moral action,Not a prediction of real conduct
+action,moral_action,Synthetic binary moral action indicator,Not real behavior
+repair,guilt_recognition,Synthetic recognition of guilt or wrongdoing,Not a clinical guilt measure
+repair,humility,Synthetic openness to correction and limits,Not a personality assessment
+repair,accountability,Synthetic answerability to truth others and consequence,Not a governance or legal audit
+repair,defensiveness,Synthetic self-protective resistance to evidence or correction,Not a diagnosis
+repair,repair_capacity,Synthetic capacity for apology correction restitution and learning,Not a real repair assessment
+case_type,high_identity_low_action,Synthetic cases with high identity but low action under pressure,Not a real-person risk classification
+case_type,high_identity_low_repair,Synthetic cases with high identity but low repair capacity,Not a real-person risk classification

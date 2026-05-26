@@ -1,0 +1,41 @@
+title: "Moral Identity and the Formation of Moral Agency"
+slug: "moral-identity-and-the-formation-of-moral-agency"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-identity-and-the-formation-of-moral-agency"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral identity
+  - moral agency
+  - internalization
+  - symbolization
+  - narrative integration
+  - norm integration
+  - self-regulation
+  - moral judgment
+  - situational pressure
+  - accountability
+  - humility
+  - defensiveness
+  - repair capacity
+  - moralized selfhood
+  - institutional role
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  moral identity assessment, virtue scoring, employee screening, student assessment,
+  workplace surveillance, psychological assessment, legal decision-making, hiring,
+  promotion, or automated moral judgment.

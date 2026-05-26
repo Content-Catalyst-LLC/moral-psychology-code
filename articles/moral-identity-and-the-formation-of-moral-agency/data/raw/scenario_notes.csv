@@ -1,0 +1,11 @@
+scenario,description,expected_pattern
+baseline,Average internalization symbolization narrative norm judgment regulation pressure and repair factors,Moderate synthetic moral action probability
+high_internalization_low_pressure,High internalization with low situational pressure,Higher moral action probability
+high_internalization_high_pressure,High internalization with high situational pressure,Identity supports action but pressure may suppress conduct
+high_symbolization_public_action,High symbolization under visible moral opportunity,More public moral expression
+high_identity_low_audience,High internalization with low audience visibility,Internalized identity supports unseen moral action
+high_identity_high_defensiveness,High moral identity with high defensiveness,Identity may protect self-image and reduce repair
+high_humility_high_accountability,High humility and accountability with guilt recognition,Higher repair capacity
+high_identity_low_action,High moral identity under high pressure weak regulation or low judgment clarity,Illustrates identity-action gap
+high_identity_low_repair,High moral identity with high defensiveness and weak humility,Illustrates moralized selfhood risk
+supportive_institution,Institution rewards integrity truth-telling and repair,Identity becomes more action-guiding and accountable
