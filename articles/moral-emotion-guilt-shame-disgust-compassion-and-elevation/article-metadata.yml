@@ -1,0 +1,42 @@
+title: "Moral Emotion: Guilt, Shame, Disgust, Compassion, and Elevation"
+slug: "moral-emotion-guilt-shame-disgust-compassion-and-elevation"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-emotion-guilt-shame-disgust-compassion-and-elevation"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral emotion
+  - guilt
+  - shame
+  - disgust
+  - compassion
+  - elevation
+  - moral appraisal
+  - moral repair
+  - helping behavior
+  - avoidance
+  - moral self-evaluation
+  - dehumanization risk
+  - compassion fatigue
+  - moral exemplars
+  - institutional emotional climates
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  guilt assessment, shame assessment, disgust assessment, compassion assessment,
+  moral-emotion scoring, employee screening, student assessment, workplace surveillance,
+  psychological assessment, legal decision-making, hiring, promotion, or automated
+  moral judgment.

@@ -1,0 +1,28 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+appraisal,perceived_wrongdoing,Synthetic recognition that wrongdoing occurred,Not a real wrongdoing determination
+appraisal,specific_responsibility,Synthetic act-focused responsibility appraisal,Not a legal or moral-responsibility assessment
+appraisal,global_self_condemnation,Synthetic global negative self-appraisal,Not a clinical or psychological assessment
+appraisal,exposure_before_others,Synthetic visibility or imagined exposure before observers,Not a social-exposure measure
+appraisal,perceived_violation,Synthetic perception of violation corruption or contamination,Not a real violation assessment
+appraisal,boundary_threat,Synthetic perception of boundary threat,Not a risk or security assessment
+appraisal,perceived_suffering,Synthetic recognition of suffering vulnerability or need,Not a clinical assessment
+appraisal,mind_perception,Synthetic recognition of another as minded and experiencable,Not a real empathy or mind-perception measure
+appraisal,admired_moral_action,Synthetic perception of morally admirable action,Not a real exemplar score
+appraisal,perceived_moral_excellence,Synthetic perception of morally excellent motive or conduct,Not a virtue assessment
+support,agency_capacity,Synthetic capacity to act repair or regulate,Not a psychological assessment
+support,repair_pathway,Synthetic availability of confession restitution and changed conduct,Not an institutional audit
+support,social_support,Synthetic presence of supportive relational or institutional conditions,Not a real support measure
+emotion,guilt,Synthetic act-focused self-condemning moral emotion,Not a guilt assessment
+emotion,shame,Synthetic self-focused exposure or global self-condemnation emotion,Not a shame assessment
+emotion,disgust,Synthetic boundary-making or violation-response moral emotion,Not a disgust assessment
+emotion,compassion,Synthetic other-suffering moral emotion,Not a compassion assessment
+emotion,elevation,Synthetic other-praising moral emotion tied to witnessed excellence,Not an elevation assessment
+outcome,helping_tendency,Synthetic tendency toward helping or prosocial response,Not a prediction of real behavior
+outcome,repair_tendency,Synthetic tendency toward apology restitution or correction,Not a prediction of real behavior
+outcome,avoidance_tendency,Synthetic tendency toward withdrawal avoidance or rejection,Not a prediction of real behavior
+profile,constructive_emotion_index,Synthetic average of guilt compassion and elevation,Not a moral-worth measure
+profile,punitive_emotion_index,Synthetic average of shame and disgust,Not a moral-risk score
+case_type,high_shame_high_disgust,Synthetic emotion-profile case type,Not a real-person risk classification
+case_type,high_compassion_high_elevation,Synthetic emotion-profile case type,Not a real-person classification
+case_type,high_guilt_high_repair,Synthetic emotion-profile case type,Not a real-person classification
