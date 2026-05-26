@@ -1,0 +1,19 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+salience,perceived_harm,Synthetic recognition of injury suffering burden or damage,Not a real harm assessment
+salience,visible_vulnerability,Synthetic visibility of dependence exposure need fear or unequal risk,Not a vulnerability assessment
+salience,emotional_activation,Synthetic affective force that makes a situation morally vivid,Not an emotion assessment
+salience,mind_perception,Synthetic recognition that another has feeling perspective agency and experience,Not a real mind-perception measure
+salience,contextual_framing,Synthetic interpretive script that shapes whether a situation appears moral,Not a real framing assessment
+salience,attentional_competition,Synthetic distraction overload threat metrics or rival cues,Not a cognitive-capacity assessment
+institution,organized_inattention,Synthetic institutional design factor that makes harm difficult to see or report,Not an institutional audit
+attention,latent_salience,Synthetic underlying moral-salience score,Not a real moral perception score
+attention,focal_attention_probability,Synthetic probability that a moral feature becomes focal,Not a prediction of real conduct
+attention,focal_attention,Synthetic binary indicator of focal moral attention,Not a real attention assessment
+judgment,intention_attribution,Synthetic attribution of intention,Not a real moral-judgment measure
+judgment,reflective_interpretation,Synthetic interpretive reflection,Not a real reflective-capacity measure
+judgment,moral_judgment,Synthetic downstream moral judgment,Not a moral-worth or judgment-quality score
+response,repair_pathway,Synthetic availability of reporting correction restitution or response,Not an institutional audit
+response,ethical_response_tendency,Synthetic tendency toward ethical response,Not a prediction of real behavior
+case_type,low_attention_high_harm,Synthetic high-harm cases that fail to become focal,Not a real-person risk classification
+case_type,high_salience_high_response,Synthetic high-salience high-response cases,Not a real-person or institutional classification

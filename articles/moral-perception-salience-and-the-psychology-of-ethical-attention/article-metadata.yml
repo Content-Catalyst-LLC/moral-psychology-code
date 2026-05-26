@@ -1,0 +1,42 @@
+title: "Moral Perception, Salience, and the Psychology of Ethical Attention"
+slug: "moral-perception-salience-and-the-psychology-of-ethical-attention"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-perception-salience-and-the-psychology-of-ethical-attention"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral perception
+  - moral salience
+  - ethical attention
+  - perceived harm
+  - visible vulnerability
+  - emotional activation
+  - mind perception
+  - contextual framing
+  - attentional competition
+  - organized inattention
+  - focal attention
+  - moral judgment
+  - ethical response
+  - institutional visibility
+  - digital attention economies
+  - power and privilege
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  attention assessment, moral-salience scoring, moral perception diagnosis,
+  employee screening, student assessment, workplace surveillance, psychological
+  assessment, legal decision-making, hiring, promotion, or automated moral judgment.

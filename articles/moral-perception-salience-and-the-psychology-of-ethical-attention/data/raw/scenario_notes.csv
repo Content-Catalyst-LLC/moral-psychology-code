@@ -1,0 +1,12 @@
+scenario,description,expected_pattern
+baseline,Average harm vulnerability emotion mind perception framing competition and organized inattention,Moderate synthetic focal attention probability
+high_harm_high_vulnerability,High perceived harm and visible vulnerability,Higher moral salience and focal attention probability
+high_harm_high_inattention,High perceived harm with high organized inattention,Lower focal attention despite harm
+high_mind_perception_high_harm,High mind perception and perceived harm,Higher moral salience and judgment
+high_competition_high_harm,High attentional competition despite high harm,Reduced focal attention probability
+low_attention_high_harm,High harm that remains nonfocal due to competition or organized inattention,Illustrates ethical attention failure
+high_salience_high_response,High salience with available repair pathway,Higher ethical response tendency
+digital_outrage_salience,High emotional activation and low context,Potentially high focal attention with distortion risk
+bureaucratic_inattention,High organized inattention and procedural framing,Human consequences become less visible
+privilege_invisibility,Low perceived harm among protected observers despite real burden,Highlights uneven distribution of notice
+affected_voice_visibility,Affected-person testimony increases mind perception harm perception and framing clarity,Higher focal attention and response
