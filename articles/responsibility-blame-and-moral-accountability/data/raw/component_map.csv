@@ -1,0 +1,15 @@
+component,variable,description,interpretive_warning
+control,control,Synthetic relevant control capacity or opportunity to act,Not a real measure of agency or legal control
+knowledge,knowledge,Synthetic knowledge foresight or epistemic position,Not a real epistemic assessment
+role,role_duty,Synthetic role duty office obligation or professional responsibility,Role duty depends on real institutional context
+wrongness,wrongness_severity,Synthetic severity of wrongdoing or norm violation,Not a real case severity score
+motive,motive_malice,Synthetic malice negligence or culpable motive indicator,Not a psychological diagnosis
+excuse,mitigating_excuse,Synthetic mitigating excuse duress or constraint,Not a legal mitigation assessment
+institution,institutional_structure,Synthetic quality of institutional structure reporting and oversight,Not an institutional audit
+recognition,victim_recognition,Synthetic recognition of harmed person or group standing,Recognition must be grounded in real agency and testimony
+repair,repair_capacity,Synthetic capacity for repair restitution or changed conduct,Not a real repair plan
+prevention,prevention_capacity,Synthetic capacity to prevent recurrence,Not a safety certification
+responsibility,responsibility,Synthetic responsibility score,Not a real-person responsibility assessment
+blame,blame_probability,Synthetic probability of blame assignment,Not a blame recommendation
+accountability,accountability_score,Synthetic accountability score,Not an accountability decision tool
+quality,accountability_quality,Synthetic accountability-quality score,Not an evaluation of real justice or repair

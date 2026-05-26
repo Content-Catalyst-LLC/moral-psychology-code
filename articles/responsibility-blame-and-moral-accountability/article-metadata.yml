@@ -1,0 +1,40 @@
+title: "Responsibility, Blame, and Moral Accountability"
+slug: "responsibility-blame-and-moral-accountability"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/responsibility-blame-and-moral-accountability"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - responsibility
+  - blame
+  - moral accountability
+  - answerability
+  - control
+  - knowledge
+  - epistemic condition
+  - role duty
+  - mitigating excuse
+  - willful ignorance
+  - institutional accountability
+  - responsibility diffusion
+  - repair
+  - prevention
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  legal advice, blame assignment, employee discipline, offender assessment,
+  institutional audit substitution, psychological assessment, surveillance,
+  or automated moral judgment.

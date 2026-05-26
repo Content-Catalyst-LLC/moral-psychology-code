@@ -1,0 +1,9 @@
+scenario,description,expected_pattern
+baseline,Average control knowledge role duty wrongness motive excuse and institutional structure,Moderate synthetic responsibility blame and accountability
+high_control_high_knowledge,High control and high knowledge,Higher responsibility and blame probability
+high_excuse,High mitigating excuse,Lower blame probability without necessarily eliminating accountability
+high_role_duty,High role duty with moderate knowledge and control,Higher responsibility and accountability
+willful_ignorance,Low knowledge with high duty to know and high role responsibility,Higher accountability despite claimed ignorance
+institutional_failure,Weak institutional structure with high wrongness and low prevention,Lower accountability quality and higher repair need
+high_accountability_low_blame,High repair and prevention need with mitigating excuse,Accountability remains even where blame is reduced
+repair_oriented_accountability,High victim recognition repair capacity prevention capacity and institutional structure,Higher accountability quality
