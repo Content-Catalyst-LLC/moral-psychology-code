@@ -1,0 +1,42 @@
+title: "What Is Moral Psychology?"
+slug: "what-is-moral-psychology"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/what-is-moral-psychology"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral agency
+  - moral perception
+  - moral salience
+  - moral judgment
+  - moral emotion
+  - moral identity
+  - empathic concern
+  - self-regulation
+  - judgment-action gap
+  - institutional pressure
+  - accountability climate
+  - repair infrastructure
+  - retaliation risk
+  - moral environments
+  - moral failure
+  - moral disengagement
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  psychological assessment, employee screening, student assessment, workplace
+  surveillance, legal decision-making, hiring, promotion, disciplinary action,
+  or automated moral judgment.

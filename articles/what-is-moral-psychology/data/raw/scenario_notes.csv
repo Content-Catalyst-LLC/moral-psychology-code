@@ -1,0 +1,10 @@
+scenario,description,expected_pattern
+baseline,Average moral identity self-regulation empathy institutional pressure accountability and repair,Moderate judgment-action gap
+high_identity_high_regulation,High moral identity and self-regulation,Lower judgment-action gap and higher moral action
+high_pressure_low_accountability,High institutional pressure with weak accountability,Higher judgment-action gap
+high_repair_high_accountability,High repair infrastructure and accountability climate,Lower gap and higher action probability
+high_retaliation_risk,High retaliation risk attached to moral action,Larger gap even when judgment is high
+high_salience_high_empathy,High moral salience and empathic concern,Higher judgment and action if pressure is manageable
+public_values_private_silence,High judgment but low action under pressure,Illustrates moral agency breakdown
+institutional_support,High accountability and repair with lower retaliation,Supports translation of judgment into conduct
+moral_disengagement_risk,High pressure low salience and weak accountability,Increases risk that harm becomes normalized

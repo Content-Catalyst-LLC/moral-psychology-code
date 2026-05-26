@@ -1,0 +1,16 @@
+component,variable,description,interpretive_warning
+case,person_id,Synthetic person identifier,Not real personal data
+case,org_id,Synthetic organization identifier,Not a real organization
+individual,moral_identity,Synthetic integration of moral commitments into self-concept,Not a real moral identity assessment
+individual,empathic_concern,Synthetic concern for suffering vulnerability and need,Not a real empathy assessment
+individual,self_regulation,Synthetic capacity for restraint consistency and action under pressure,Not a real self-control assessment
+individual,social_desirability,Synthetic tendency to present oneself favorably,Not a real response-bias assessment
+perception,moral_salience,Synthetic visibility and urgency of moral features,Not a real moral perception score
+judgment,moral_judgment,Synthetic explicit moral endorsement or judgment,Not a real moral truth measure
+action,moral_action,Synthetic enacted moral conduct indicator or score,Not a real behavior record
+gap,judgment_action_gap,Synthetic difference between endorsed judgment and enacted conduct,Not a real moral failure diagnosis
+institution,institutional_pressure,Synthetic pressure that suppresses moral action,Not a real institutional audit
+institution,accountability_climate,Synthetic institutional support for accountability,Not a real climate survey
+institution,repair_infrastructure,Synthetic availability of apology restitution redesign and follow-up,Not a real repair-system audit
+institution,retaliation_risk,Synthetic risk attached to truth-telling or moral action,Not a real retaliation assessment
+environment,high_risk_moral_environment,Synthetic high-gap environment,Not a real organization classification
