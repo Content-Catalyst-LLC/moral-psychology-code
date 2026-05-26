@@ -1,0 +1,21 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+conscience,conscience_activation,Synthetic activation of moral self-evaluation,Not a conscience assessment
+wrongdoing,perceived_wrongdoing,Synthetic recognition that an action or omission violated a standard,Not a real wrongdoing determination
+responsibility,perceived_responsibility,Synthetic sense of answerability for action or omission,Not a legal or moral-responsibility assessment
+exposure,exposure_before_others,Synthetic visibility of failure before real or imagined observers,Not a social exposure measure
+norm,norm_internalization,Synthetic degree to which a moral norm is experienced as inwardly binding,Not a real norm-internalization score
+self,global_self_condemnation,Synthetic global negative self-appraisal,Not a clinical or psychological assessment
+agency,agency_capacity,Synthetic capacity to respond repair or change,Not a psychological assessment
+emotion,guilt,Synthetic act-focused moral self-evaluation,Not a guilt assessment
+emotion,shame,Synthetic self-focused exposure or global self-condemnation,Not a shame assessment
+emotion,remorse,Synthetic sorrowful responsibility for harm done,Not a remorse assessment
+repair,empathic_acknowledgment,Synthetic recognition of harm to another person or group,Not an empathy assessment
+repair,repair_pathway,Synthetic practical availability of confession restitution and changed conduct,Not a real institutional audit
+repair,repair_probability,Synthetic probability of repair-oriented response,Not a prediction of real conduct
+repair,repair_action,Synthetic binary repair-action indicator,Not real behavior
+avoidance,avoidance_probability,Synthetic probability of avoidance response,Not a prediction of real conduct
+avoidance,avoidance_action,Synthetic binary avoidance-action indicator,Not real behavior
+defense,defensiveness,Synthetic self-protective resistance to evidence or correction,Not a diagnosis
+case_type,high_shame_low_repair,Synthetic cases with high shame and low repair,Not a real-person risk classification
+case_type,high_guilt_high_repair,Synthetic cases with high guilt and high repair,Not a real-person classification

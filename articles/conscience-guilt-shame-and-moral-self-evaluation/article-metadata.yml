@@ -1,0 +1,42 @@
+title: "Conscience, Guilt, Shame, and Moral Self-Evaluation"
+slug: "conscience-guilt-shame-and-moral-self-evaluation"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/conscience-guilt-shame-and-moral-self-evaluation"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - conscience
+  - guilt
+  - shame
+  - remorse
+  - moral self-evaluation
+  - perceived wrongdoing
+  - perceived responsibility
+  - exposure
+  - norm internalization
+  - global self-condemnation
+  - empathic acknowledgment
+  - repair pathway
+  - repair action
+  - avoidance action
+  - moral repair
+  - institutional accountability
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  conscience assessment, guilt assessment, shame assessment, moral-risk scoring,
+  employee screening, student assessment, workplace surveillance, psychological
+  assessment, legal decision-making, hiring, promotion, or automated moral judgment.

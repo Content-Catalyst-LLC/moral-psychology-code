@@ -1,0 +1,12 @@
+scenario,description,expected_pattern
+baseline,Average wrongdoing responsibility exposure norms agency defensiveness and repair pathway,Moderate synthetic conscience activation
+high_wrongdoing_high_responsibility,High perceived wrongdoing and responsibility,Higher guilt and stronger conscience activation
+high_exposure_high_self_condemnation,High exposure and global self-condemnation,Higher shame and possible avoidance
+high_guilt_high_agency,High guilt with high agency and repair pathway,Higher repair probability
+high_shame_low_agency,High shame with low agency and weak repair pathway,Higher avoidance probability
+high_empathy_high_repair_pathway,Strong empathic acknowledgment and repair pathway,Higher repair action probability
+high_defensiveness_high_shame,High defensiveness under shame,Lower repair and higher avoidance
+high_shame_low_repair,High shame with weak agency repair pathway or high defensiveness,Illustrates shame-heavy self-evaluation without repair
+high_guilt_high_repair,High guilt with strong empathy and repair pathway,Illustrates constructive moral self-evaluation
+institutional_shame_culture,Exposure is punished more than harm is repaired,Concealment and avoidance become more likely
+repair_oriented_institution,Truth-telling and repair are supported,Conscience becomes more constructive and action-guiding
