@@ -1,0 +1,42 @@
+title: "Prosocial Behavior, Altruism, and Care for Others"
+slug: "prosocial-behavior-altruism-and-care-for-others"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/prosocial-behavior-altruism-and-care-for-others"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - prosocial behavior
+  - altruism
+  - care
+  - helping
+  - cooperation
+  - sacrifice
+  - empathic concern
+  - norm strength
+  - relational closeness
+  - visible vulnerability
+  - perceived cost
+  - altruistic motive
+  - caregiving persistence
+  - burnout
+  - institutional support
+  - voice safety
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  empathy assessment, altruism scoring, caregiver assessment, employee screening,
+  student assessment, healthcare triage, psychological assessment, legal decision-making,
+  labor allocation, or automated moral judgment.

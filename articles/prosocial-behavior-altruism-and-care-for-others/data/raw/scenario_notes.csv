@@ -1,0 +1,10 @@
+scenario,description,expected_pattern
+baseline,Average empathy norms closeness vulnerability cost support burnout and care conditions,Moderate synthetic prosocial action probability
+high_empathy_low_cost,High empathic concern with low perceived cost,Higher prosocial action probability
+high_empathy_high_cost,High empathic concern with high perceived cost,Helping may be constrained despite concern
+strong_norms_weak_empathy,Strong norm pressure with weak empathic concern,Prosocial action may occur through obligation or compliance
+high_vulnerability_high_responsibility,Visible vulnerability and strong relational closeness,Higher helping and care response
+high_other_concern_low_self_payoff,Other-oriented desire dominates self-oriented payoff,Higher altruistic motive strength
+high_need_high_support,Ongoing need with institutional support,Higher caregiving persistence
+high_need_high_burnout,Ongoing need with high burnout and weak support,Lower caregiving persistence
+high_empathy_low_action,High empathy but high cost weak support or low norm clarity,Illustrates empathy-action gap

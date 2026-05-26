@@ -1,0 +1,20 @@
+component,variable,description,interpretive_warning
+case,case_id,Synthetic case identifier,Not real personal data
+empathy,empathic_concern,Synthetic empathic concern for another person's welfare,Not a real empathy assessment
+norm,norm_strength,Synthetic social or moral norm strength,Not a real norm audit
+relationship,relational_closeness,Synthetic closeness or felt responsibility,Not a real relationship measure
+vulnerability,visible_vulnerability,Synthetic visibility of another person's need or vulnerability,Not a real recipient-needs assessment
+cost,perceived_cost,Synthetic cost of helping,Not a real burden assessment
+support,institutional_support,Synthetic institutional support for prosocial response,Not a workplace school or policy audit
+action,prosocial_probability,Synthetic probability of prosocial action,Not a prediction of real conduct
+action,prosocial_action,Synthetic binary prosocial action indicator,Not real behavior
+motive,other_oriented_desire,Synthetic desire to benefit another for that person's sake,Not a real altruism assessment
+motive,self_oriented_payoff,Synthetic self-oriented payoff salience,Not a real motive assessment
+motive,altruistic_motive,Synthetic altruistic motive strength,Not a real altruism score
+care,attentional_responsiveness,Synthetic attentiveness to need over time,Not a real care measure
+care,ongoing_need,Synthetic ongoing need or dependence,Not a real needs assessment
+care,burnout,Synthetic burnout or depletion pressure,Not a burnout diagnosis
+care,voice_safety,Synthetic protection for speaking about unmet care or harm,Not a psychological safety assessment
+care,caregiving_persistence,Synthetic sustained care response,Not a real caregiving assessment
+case_type,high_empathy_low_action,Synthetic cases with high empathy but low action,Not a real-person risk classification
+case_type,high_burden_care_cases,Synthetic high-need high-burnout cases,Not a real caregiver or recipient classification
