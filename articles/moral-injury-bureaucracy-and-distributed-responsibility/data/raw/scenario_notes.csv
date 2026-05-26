@@ -1,0 +1,7 @@
+scenario,description,expected_pattern
+baseline,Average conflict betrayal responsibility distribution scarcity and accountability,Moderate synthetic moral injury risk
+high_betrayal,High institutional betrayal with average accountability,Higher synthetic moral injury risk
+low_accountability,Low accountability clarity with average betrayal,Higher ambiguity and many-hands pressure
+high_scarcity,High scarcity constraint with average accountability,Higher rule-conscience and care-capacity strain
+high_voice,High protected voice and repair capacity,Lower synthetic moral injury risk
+combined_escalation,High betrayal high scarcity high distribution low accountability low voice,Highest synthetic moral injury risk

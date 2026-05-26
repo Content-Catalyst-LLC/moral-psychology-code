@@ -1,0 +1,35 @@
+title: "Moral Injury, Bureaucracy, and Distributed Responsibility"
+slug: "moral-injury-bureaucracy-and-distributed-responsibility"
+series: "Moral Psychology"
+article_map: "https://sustainablecatalyst.com/moral-psychology/"
+repository: "https://github.com/Content-Catalyst-LLC/moral-psychology-code/tree/main/articles/moral-injury-bureaucracy-and-distributed-responsibility"
+status: "article scaffold"
+data_type: "synthetic"
+languages:
+  - Python
+  - R
+  - SQL
+  - Julia
+  - C
+  - C++
+  - Fortran
+  - Go
+  - Rust
+topics:
+  - moral psychology
+  - moral injury
+  - bureaucracy
+  - distributed responsibility
+  - institutional betrayal
+  - conscience conflict
+  - moral distress
+  - accountability
+  - many hands problem
+  - organizational ethics
+  - institutional courage
+  - reproducible research
+responsible_use: >
+  This repository folder is for synthetic-data research, methods demonstration,
+  reproducible article support, and educational modeling. It is not intended for
+  clinical diagnosis, psychological assessment, employee screening, workplace surveillance,
+  automated moral judgment, or decision-making about individuals or groups.
